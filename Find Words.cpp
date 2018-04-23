@@ -20,7 +20,7 @@ int main() {
     char A15[] = {'o','h','n','k','z','w','a','t','e','r','j','g','t','r','a'};
     char *Y[] = {A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15};
     
-    cout <<"\t\tFind Words"<<endl<<endl;
+    cout <<"\t\tGame Pencarian Kata"<<endl<<endl;
     for(int a = 0; a<15; a++)
 	{
         for(int b=0; b<15; b++) 
